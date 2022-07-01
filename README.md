@@ -10,10 +10,6 @@
     <style type="text/css">.body { width: auto; }</style>
   </head>
   <body>
- 
- 
  <a href="https://rushingfolder.com/show.php?l=0&u=102746&id=44632&tracking_id=">https://rushingfolder.com/show.php?l=0&u=102746&id=44632&tracking_id=</a>
-
-  
-   </body>
+</body>
 </html>
